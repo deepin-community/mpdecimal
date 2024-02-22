@@ -1,3 +1,10 @@
+mpdecimal (2.5.1-2deepin1) unstable; urgency=medium
+
+  * No longer ships documentation.
+    See #1013395.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 22 Feb 2024 14:31:33 +0800
+
 mpdecimal (2.5.1-2) unstable; urgency=medium
 
   * Mark symbols as optional not seen when building with lto.
